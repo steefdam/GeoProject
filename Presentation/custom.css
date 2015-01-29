@@ -1,0 +1,28 @@
+body {
+    color: black;
+    background: #D8D8D8;
+    text-align:center;
+    width:100%;
+    transition: zoom;
+}
+
+.small-code pre code {
+    font-size: 1em;
+}
+
+.midcenter {
+    position: fixed;
+    top: 50%;
+    left: 25%;
+}
+
+.middcenter {
+    position: fixed;
+    top: 50%;
+    left: 10%;
+}
+
+
+div.small-text {
+  font-size: 0.6em;
+}
